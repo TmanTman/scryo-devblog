@@ -13,6 +13,12 @@ article {
   a:hover {
     @extend %link-hover;
   }
+  iframe {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      padding-bottom: 20px;
+  }
   .footnotes {
     font-size: 0.9em;
   }
@@ -78,4 +84,3 @@ header {
     vertical-align: middle;
   }
 }
-
