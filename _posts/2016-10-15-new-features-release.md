@@ -46,7 +46,7 @@ This caters especially to sending to someone on iOS, where the app is not yet av
 
 At this stage there are multiple paths forward. If I sit down and think of new features, I can think of probably 20. But
 using the app makes it clearer what the way forward should be. So for the next couple of weeks, I'll be engaged with a focus group
-again to see how this can help them!
+again to see how these new features can help them!
 
 Best regards,
 
