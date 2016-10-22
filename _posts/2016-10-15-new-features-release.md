@@ -28,7 +28,7 @@ that as a message:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZqXeiBPysvk" frameborder="0" allowfullscreen></iframe>
 
-Soon, it should also be possible to send this video to someone via an external messenger, such
+Soon, it should also be possible to send this recording to someone via an external messenger, such
 as Whatsapp. (For the curious, that can be done once the support for canvas recording lands
 in Chrome 52 on [Crosswalk](https://crosswalk-project.org/), probably December 2016).
 
