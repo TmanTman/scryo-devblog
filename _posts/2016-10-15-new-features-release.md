@@ -13,12 +13,7 @@ Check it out:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ueMS6f_ZXuE" frameborder="0" allowfullscreen></iframe>
 
-I built it for myself, but to test it for other people I gave it to a teacher to use
-with his pupils. The feedback after the experiment was
-
- - It's not ideal to learn how to use the canvas only once you're in a call
- - It's only necessary to use the live whiteboard calling once in while. That's long enough
- to forget that you have the app.
+It was originally designed for university students. I provided the application to school pupils and it was quickly clear that adding a messaging feature based on the same concept would greatly enhance the usefulness!
 
 I had already known that Scryo can be really useful if it had a messaging feature as well.
 But sending an image doesn't really get a complex concept across. Besides, there is already
